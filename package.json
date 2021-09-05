@@ -10,6 +10,7 @@
     "lint": "eslint .",
     "scrcpy": "scrcpy -S --max-size 1366"
   },
+  
   "dependencies": {
     "react": "17.0.2",
     "react-native": "0.65.1",
