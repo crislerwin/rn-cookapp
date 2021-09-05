@@ -11,8 +11,10 @@
     "scrcpy": "scrcpy -S --max-size 1366"
   },
   "dependencies": {
+    "@types/styled-components-react-native": "^5.1.1",
     "react": "17.0.2",
-    "react-native": "0.65.1"
+    "react-native": "0.65.1",
+    "styled-components": "^5.3.1"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
