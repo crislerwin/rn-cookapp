@@ -1,6 +1,7 @@
 import {DefaultTheme} from 'styled-components';
 
 const theme: DefaultTheme = {
+  title: 'light',
   colors: {
     primary: '#0070f3',
     secondary: '#ff4081',
@@ -11,11 +12,6 @@ const theme: DefaultTheme = {
     brown: '#591C27',
     gray: '#afaca3',
     red: '#A61B34',
-    fonts: {
-      primary400: 'Ubuntu_400Regular',
-      primary500: 'Ubuntu_500Medium',
-      primary700: 'Ubuntu_700Bold',
-    },
   },
 };
 

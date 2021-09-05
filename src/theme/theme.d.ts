@@ -5,7 +5,7 @@ declare module 'styled-components' {
     title: string;
     colors: {
       primary: string;
-      secundary: string;
+      secondary: string;
       background: string;
       text: string;
       orange: string;
@@ -13,11 +13,6 @@ declare module 'styled-components' {
       brown: string;
       gray: string;
       red: string;
-    };
-    fonts: {
-      primary400: string;
-      primary500: string;
-      primary700: string;
-    };
+    }
   }
 }
