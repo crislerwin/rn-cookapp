@@ -27,11 +27,13 @@ margin-top: 17px;
 const Label = styled.Text`
 color: ${({ theme }) => theme.colors.white};
 font-size: 14px;
+
 `;
 
 const Value = styled.Text`
 color: ${({ theme }) => theme.colors.white};
 font-size: 15px;
+font-weight: 600;
 `;
 
 

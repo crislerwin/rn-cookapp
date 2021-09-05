@@ -14,12 +14,14 @@ const TitleContainer = styled.View``;
 const Title = styled.Text`
   color: ${({theme}) => theme.colors.brown};
   font-size: 28px;
+  font-weight: 700;
 `;
 
 const SubTitle = styled.Text`
   color: ${({theme}) => theme.colors.orange};
   font-size: 20px;
   align-self: flex-end;
+  font-weight: 500;
 `;
 
 const Icon = styled(Feather)`

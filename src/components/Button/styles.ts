@@ -14,6 +14,7 @@ const Btn = styled.TouchableOpacity`
 const Text = styled.Text`
   color: ${({theme}) => theme.colors.white};
   font-size: 16px;
+  font-weight: 600;
 `;
 
 const Icon = styled(Feather)`
