@@ -1,5 +1,5 @@
 import styled from 'styled-components/native';
-
+import Feather from 'react-native-vector-icons/Feather';
 const Btn = styled.TouchableOpacity`
   background-color: ${({theme}) => theme.colors.red};
   height: 50px;
@@ -16,4 +16,7 @@ const Text = styled.Text`
   font-size: 16px;
 `;
 
-export {Btn, Text};
+const Icon = styled(Feather)`
+  color: ${({theme}) => theme.colors.white};
+  `;
+export {Btn, Text, Icon};
