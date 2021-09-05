@@ -8,5 +8,10 @@ Estou desenvolvendo minha versão do App da codedrops da RocketSeat sem Expo par
 - Styled-Components
 - Moti
 - Metro Bundler
+# TODO
+- [X] Refazer o App sem Expo
+- [X] Estilizar com Styled Components
+- [ ] Adicionar animações
 
+## Screen Shots
 ![](screenshot.jpg)
