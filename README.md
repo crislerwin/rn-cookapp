@@ -8,3 +8,5 @@ Estou desenvolvendo minha versão do App da codedrops da RocketSeat sem Expo par
 - Styled-Components
 - Moti
 - Metro Bundler
+
+![](screenshot.jpg)
