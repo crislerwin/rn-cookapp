@@ -15,8 +15,8 @@ const theme: DefaultTheme = {
       primary400: 'Ubuntu_400Regular',
       primary500: 'Ubuntu_500Medium',
       primary700: 'Ubuntu_700Bold',
-    }
-  }
-}
+    },
+  },
+};
 
 export default theme;
